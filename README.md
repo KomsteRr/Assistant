@@ -1,7 +1,7 @@
 # Assistant Jarvis
 
-[!IMPORTANT]
-*WORK IN PROGRESS*
+>[!IMPORTANT]
+>*WORK IN PROGRESS*
 
 ### fonctionnement
 1. exec le fichier main.py
